@@ -391,9 +391,10 @@ footer {
 }
 
 .footer-logos img {
-    height: 90px;
+    height: 45px;
     width: 100px;
     object-fit: contain;
+	max-width: 120px
 }
 
 code, .mono { font-family: "SFMono-Regular", Consolas, monospace; }
