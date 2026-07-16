@@ -380,4 +380,20 @@ footer {
     height: 120px;
   }
 }
+
+.footer-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.footer-logos img {
+    height: 90px;
+    width: 500px;
+    object-fit: contain;
+}
+
 code, .mono { font-family: "SFMono-Regular", Consolas, monospace; }
