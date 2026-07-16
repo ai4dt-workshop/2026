@@ -392,9 +392,9 @@ footer {
 
 .footer-logos img {
     height: 45px;
-    width: 100px;
+    width: auto;
     object-fit: contain;
-	max-width: 120px
+	max-width: 120px;
 }
 
 code, .mono { font-family: "SFMono-Regular", Consolas, monospace; }
