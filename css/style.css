@@ -342,6 +342,17 @@ footer {
   white-space: nowrap;
 }
 
+.date del {
+    color: #888;
+    text-decoration-color: #c00; /* optional: red strike line */
+}
+
+.date ins {
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 0.4em;
+}
+
 .event {
   color: var(--text);
 }
